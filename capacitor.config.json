@@ -1,0 +1,9 @@
+{
+  "appId": "com.askar.osmanlisavascisi",
+  "appName": "Askar Osmanli Savascisi",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
